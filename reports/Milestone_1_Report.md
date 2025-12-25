@@ -5,6 +5,15 @@
 
 **Status:** All tasks in Sprint 1 and Sprint 2 have been successfully implemented and tested.
 
+## Delivered Codebase
+
+| Repository | Description | Link |
+| :--- | :--- | :--- |
+| **WAX Blockchain (Fork)** | Modified `nodeos` integrated with the new WebSocket architecture. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/peeraphat-lakboon/wax-blockchain) |
+| **Chain WS Plugin** | Core C++ source code for the native WebSocket plugin. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/peeraphat-lakboon/chain-ws-plugin) |
+
+---
+
 ---
 
 ## Sprint 1 Deliverables
@@ -54,3 +63,13 @@
 * **Performance:** Achieved ultra-low latency (**0.1ms - 1ms**) for standard queries by bypassing HTTP overhead.
 * **Stability:** Implemented backpressure mechanisms (`max_pending`) and graceful shutdown procedures to ensure node stability under load.
 * **Completeness:** The plugin is now fully functional and ready for the next phase (Gateway development).
+
+
+## Delivered Codebase
+
+| Repository | Description | Link |
+| :--- | :--- | :--- |
+| **WAX Blockchain (Fork)** | Modified `nodeos` integrated with the new WebSocket architecture. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/peeraphat-lakboon/wax-blockchain) |
+| **Chain WS Plugin** | Core C++ source code for the native WebSocket plugin. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/peeraphat-lakboon/chain-ws-plugin) |
+
+---
