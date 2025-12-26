@@ -37,7 +37,7 @@
 | Demo | Description | Link |
 | :--- | :--- | :--- |
 | **Speed Comparison** | Live benchmark comparing HTTP vs WebSocket latency. | [https://rpc-test.pages.dev/](https://rpc-test.pages.dev/) |
-| **WAX Labs Integration** | A modified WAX Labs UI demonstrating WebSocket integration for real-time data retrieval. | [https://wax-labs.pages.dev/](https://wax-labs.pages.dev/) |
+| **WAX Labs Integration** | A modified WAX Labs UI utilizing the WebSocket Plugin for high-speed data fetching. | [https://wax-labs.pages.dev/](https://wax-labs.pages.dev/) |
 
 ## Delivered Codebase
 
