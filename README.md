@@ -9,6 +9,14 @@ Project documentation and progress tracking for a native WebSocket-based RPC lay
 | **Websocket RPC Gateway** | Node.js middleware acting as a bridge to the chain-ws-plugin | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/peeraphat-lakboon/wax-ws-rpc-gateway) |
 | **Websocket RPC Client** | JavaScript/TypeScript SDK for developers to interact with the WebSocket RPC | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/peeraphat-lakboon/wax-ws-rpc-js) |
 
+# Live Demos
+See the performance difference for yourself. The project is fully implemented and running.
+
+* **Speed Comparison Test (HTTP vs WebSocket):**
+    * [https://rpc-test.pages.dev/](https://rpc-test.pages.dev/)
+
+* **WAX Labs UI Integration (PoC):**
+    * [https://wax-labs.pages.dev/](https://wax-labs.pages.dev/)
 ---
 
 [![WAX Labs](https://img.shields.io/badge/WAX_Labs-orange?style=for-the-badge&logo=wax&logoColor=white)](https://labs.wax.io/proposals/239)
