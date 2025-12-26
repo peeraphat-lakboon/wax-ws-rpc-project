@@ -43,7 +43,7 @@
 
 | Repository | Description | Link |
 | :--- | :--- | :--- |
-| **Websocket RPC Client** | Universal JavaScript/TypeScript SDK for developers (NPM Package). | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/peeraphat-lakboon/wax-ws-rpc-project) |
+| **Websocket RPC Client** | Universal JavaScript/TypeScript SDK for developers (NPM Package). | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/peeraphat-lakboon/wax-ws-rpc-js) |
 | **NPM Package** | Published library for easy installation (`npm install wax-ws-rpc-js`). | [![NPM](https://img.shields.io/badge/NPM-Package-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/wax-ws-rpc-js) |
 
 ---
