@@ -1,6 +1,7 @@
 # Milestone 1 Completion Report: Native WebSocket RPC Plugin
 
 **Project:** Native WebSocket RPC Layer for Low-Latency WAX Chain Access
+
 **Milestone:** 1 (Core Plugin Development)
 
 **Status:** All tasks in Sprint 1 and Sprint 2 have been successfully implemented and tested.
